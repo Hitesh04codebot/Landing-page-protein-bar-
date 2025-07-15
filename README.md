@@ -5,7 +5,6 @@ A modern and responsive landing page built for a Protein Supplement Brand. This 
 
 📌 Features
 💪 Bold and clean UI tailored for fitness audiences
-📱 Fully responsive across devices
 📦 Product highlights with images
 ⭐ Testimonials / Reviews section
 📧 Newsletter subscription form
