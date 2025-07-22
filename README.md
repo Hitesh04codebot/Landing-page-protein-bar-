@@ -1,7 +1,7 @@
 # Landing-page-protein-bar-
 🥩 Protein Landing Page
 
-A modern and responsive landing page built for a Protein Supplement Brand. This page is designed to showcase the brand, highlight product benefits, and drive user conversions through attractive design and compelling call-to-actions.
+A modern landing page built for a Protein Supplement Brand. This page is designed to showcase the brand, highlight product benefits, and drive user conversions through attractive design and compelling call-to-actions.
 
 📌 Features
 💪 Bold and clean UI tailored for fitness audiences
