@@ -15,3 +15,7 @@ HTML5
 CSS3
 JavaScript
 Fonts & Icons from Google Fonts & Font Awesome
+
+## 📸 Screenshots
+
+<img width="1897" height="866" alt="image" src="https://github.com/user-attachments/assets/fe395bcd-1ef5-4024-8ece-307337d7d67c" />
