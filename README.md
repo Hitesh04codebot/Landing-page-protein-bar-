@@ -14,7 +14,7 @@ A modern landing page built for a Protein Supplement Brand. This page is designe
 HTML5
 CSS3
 JavaScript
-Fonts & Icons from Google Fonts & Font Awesome
+Fonts & Icons from Google Fonts & Font Awesome.
 
 ## 📸 Screenshots
 
